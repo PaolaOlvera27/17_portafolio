@@ -1,0 +1,87 @@
+* {
+	font-family: 'Roboto', sans-serif;
+}
+.fondo {
+	background-color: #FFCD00; 
+	width: 100%;
+	height: 600px;
+}
+.boton {
+	margin:50px 70px;
+	padding: 10px 20px;
+	background-color: orange;
+}
+.letra1 {
+	color: white;
+}
+.mar {
+	margin-top: 250px;
+}
+li {
+	text-decoration: none;
+	display: inline-block;
+	padding: 0 1%;
+	font-size: 15px;
+	margin:40px 0px;
+	color: white;
+}
+.non {
+	text-decoration:none;
+	color: white;
+}
+.nom {
+	font-size: 25px;
+}
+.icon {
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	margin: 420px 10px 0px 0px;
+	float: right;
+}
+article {
+	background-color: #E0E0E2;
+}
+.caja {
+	width: 400px;
+	background-color: white;
+	border: 1px solid lightgrey;
+}
+.mararib {
+	margin-top:80px;
+	margin-bottom: 30px;
+}
+.marabaj {
+	margin-bottom: 80px;
+}
+.float {
+	float: right;
+}
+.img {
+	width: 300px;
+	height: 300px;
+	border: 1px solid lightgrey;
+	margin: 30px 45px;
+}
+h3 {
+	color: #676574;
+	padding:0px 15px;
+}
+.letra2 {
+	color: darkgrey;
+	padding: 15px;
+}
+.boton1 {
+	padding: 10px 20px;
+	width: 140px;
+	background-color: orange;
+	margin: 10px 0px 30px 130px;
+}
+footer {
+	background-color: #2A2B2B;
+	width: 100%;
+	height: 100px;
+}
+.padf {
+	padding:20px 90px;
+}
